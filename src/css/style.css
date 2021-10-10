@@ -1,23 +1,40 @@
-@import url('https://fonts.googleapis.com/css2?family=Monoton&family=Orbitron&family=Tourney:wght@200&display=swap');
-
 html {
-  background-color: black;
+    background-color: black;
 }
-
+p {
+    font-size: 40px;
+    font-family: monospace;
+    color: white;
+}
 h1 {
-  size: 75px;
-  color: white;
-  font-family: 'Monoton', cursive;
+    font-size: 80px;
+    font-family: monospace;
+    color: white;
 }
-
-h2 {
-  size: 50px;
-  color: white;
-  font-family: 'Tourney', cursive;
+.h1 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
 }
-
-.comingSoon {
-  size: 50px;
-  color: white;
-  font-family: 'Orbitron', sans-serif;
+.nav {
+    background-color: grey;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+li {
+    font-size: 40px;
+    font-family: monospace;
+    color: white;
+    margin-right: 100px;
+}
+a {
+    font-size: 40px;
+    font-family: sans-serif;
+    color: white;
+}
+img {
+    width: 80px;
 }
