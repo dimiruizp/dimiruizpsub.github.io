@@ -47,14 +47,3 @@ p {
     flex-wrap: wrap;
     justify-content: center;
 }
-li {
-    font-size: 40px;
-    font-family: monospace;
-    color: white;
-    margin-right: 100px;
-}
-a {
-    font-size: 40px;
-    font-family: sans-serif;
-    color: white;
-}
