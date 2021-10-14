@@ -28,6 +28,7 @@ h2 {
 }
 .h1div {
   display: flex;
+  flex-direction: row;
 }
 
 
