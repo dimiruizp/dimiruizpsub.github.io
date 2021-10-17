@@ -37,6 +37,8 @@ p {
   flex-wrap: wrap;
   justify-content: center;
   gap: 50px;
+}
+.navP {
   size: 50px;
   color: white;
   font-family: 'Tourney', cursive;
