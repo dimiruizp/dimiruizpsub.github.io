@@ -30,16 +30,17 @@ p {
   width: 75px;
   height: 75px;
 }
-
-.footer {
-  size: 50px;
-  color: white;
-  font-family: 'Tourney', cursive;
-}
 .nav {
   background-color: grey;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: center;
+}
+
+
+.footer {
+  size: 50px;
+  color: white;
+  font-family: 'Tourney', cursive;
 }
