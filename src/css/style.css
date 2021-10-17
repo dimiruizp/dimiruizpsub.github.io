@@ -54,6 +54,9 @@ p {
   padding: 10px;
   border: 2px solid white;
   border-radius: 15px;
+  size: 50px;
+  color: black;
+  font-family: 'Orbitron', sans-serif;
 }
 .footer {
   size: 50px;
