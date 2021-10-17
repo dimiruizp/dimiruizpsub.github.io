@@ -4,6 +4,12 @@ html {
   background-color: black;
   align-content: center;
 }
+main {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 50px 50px;
+}
 .h1 {
   display: flex;
   flex-direction: row;
