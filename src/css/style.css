@@ -3,28 +3,25 @@
 html {
   background-color: black;
   align-content: center;
-}
-
-.h1 {
+} .h1 {
   display: flex;
   flex-direction: row;
   size: 75px;
   color: white;
   font-family: 'Monoton', cursive;
-}
-
-h2 {
+} h2 {
   size: 50px;
   color: white;
   font-family: 'Tourney', cursive;
-}
-
-.comingSoon {
+} h3 {
+  size: 50px;
+  color: white;
+  font-family: 'Tourney', cursive;
+} p {
   size: 50px;
   color: white;
   font-family: 'Orbitron', sans-serif;
-}
-#logo {
+} #logo {
   width: 75px;
   height: 75px;
 }
