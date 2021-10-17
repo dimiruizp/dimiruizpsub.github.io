@@ -5,6 +5,14 @@ html {
     align-content: center;
 }
 
+.h1div {
+  display: flex;
+  flex-direction: row;
+  size: 75px;
+  color: white;
+  font-family: 'Monoton', cursive;
+}
+
 h2 {
   size: 50px;
   color: white;
