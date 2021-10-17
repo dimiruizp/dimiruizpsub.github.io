@@ -40,11 +40,6 @@ p {
 
 
 
-p {
-  font-size: 40px;
-  font-family: monospace;
-  color: white;
-}
 .nav {
   background-color: grey;
   display: flex;
