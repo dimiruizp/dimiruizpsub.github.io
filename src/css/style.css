@@ -30,7 +30,7 @@ p {
   width: 75px;
   height: 75px;
 }
-.nav {
+#nav {
   background-color: grey;
   display: flex;
   flex-direction: row;
