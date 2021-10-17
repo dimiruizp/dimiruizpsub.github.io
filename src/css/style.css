@@ -31,7 +31,6 @@ p {
   height: 75px;
 }
 .nav {
-  background-color: grey;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
