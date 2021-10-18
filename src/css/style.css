@@ -43,7 +43,7 @@ p {
   justify-content: center;
   gap: 50px;
 }
-.navP {
+.nav a {
   size: 50px;
   color: white;
   font-family: 'Tourney', cursive;
