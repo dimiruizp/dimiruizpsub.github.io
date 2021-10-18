@@ -60,7 +60,8 @@ p {
   color: black;
   font-family: 'Orbitron', sans-serif;
 }
-.footer {
+footer {
+  background-color: grey;
   size: 50px;
   color: white;
   font-family: 'Tourney', cursive;
