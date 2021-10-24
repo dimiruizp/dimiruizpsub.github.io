@@ -5,3 +5,4 @@ ToDo:
     - Implement liquid for pots
     - Add a /p/ to store posts
     - Create a /r/ to redirect
+    - Create a /qr/ for creating QR Codes
