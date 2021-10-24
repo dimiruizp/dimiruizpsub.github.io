@@ -8,3 +8,4 @@ ToDo:
     - Add a /p/ to store posts
     - Create a /r/ to redirect
     - Create a /qr/ for creating QR Codes
+    - Create subdomains that redirect to pages (E.g. ig.rdim.cf)
