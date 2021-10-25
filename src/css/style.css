@@ -3,6 +3,10 @@
 html {
   background-color: black;
   align-content: center;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
 }
 main {
   display: flex;
