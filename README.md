@@ -2,6 +2,7 @@
 Dimitri's subdomain page hosted by Github Pages
 #
 ToDo:
+    - Add a /poll/ for polls
     - Add background
     - Implement liquidJS for pots
     - Implement meta tags
