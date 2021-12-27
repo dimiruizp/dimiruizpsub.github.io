@@ -9,5 +9,6 @@ ToDo:
     - Add a /p/ to store posts
     - Create a /r/ to redirect
     - Create a /qr/ for creating QR Codes
+    - Create /set-up/
     - Create subdomains that redirect to pages (E.g. ig.rdim.cf)
     - Create a platform to share and transmit videos
