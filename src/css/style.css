@@ -16,8 +16,8 @@ main {
   flex-direction: row;
 }
 #logo {
-  width: 3rem;
-  height: 3rem;
+  width: 5rem;
+  height: 5rem;
 }
 #title h1 {
   font-size: 3rem;
@@ -26,7 +26,7 @@ main {
   text-decoration: none;
 }
 #title h2 {
-  font-size: 3rem;
+  font-size: 2rem;
   color: white;
   font-family: 'Tourney', cursive;
   text-decoration: none;
