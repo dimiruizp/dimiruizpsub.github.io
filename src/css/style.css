@@ -19,13 +19,13 @@ main {
   width: 5rem;
   height: 5rem;
 }
-#title h1 {
+h1 {
   font-size: 3rem;
   color: white;
   font-family: 'Monoton', cursive;
   text-decoration: none;
 }
-#title h2 {
+h2 {
   font-size: 2rem;
   color: white;
   font-family: 'Tourney', cursive;
