@@ -11,18 +11,25 @@ main {
   flex-wrap: wrap;
   gap: 50px 50px;
 }
-.h1 {
+#title {
   display: flex;
   flex-direction: row;
+}
+#logo {
+  width: 3rem;
+  height: 3rem;
+}
+#title h1 {
   font-size: 3rem;
   color: white;
   font-family: 'Monoton', cursive;
   text-decoration: none;
 }
-h2 {
-  size: 50px;
+#title h2 {
+  font-size: 3rem;
   color: white;
   font-family: 'Tourney', cursive;
+  text-decoration: none;
 }
 h3 {
   size: 50px;
@@ -33,10 +40,6 @@ p {
   size: 50px;
   color: white;
   font-family: 'Orbitron', sans-serif;
-}
-#logo {
-  width: 3rem;
-  height: 3rem;
 }
 .nav {
   display: flex;
